@@ -67,20 +67,7 @@ To examine semantic and structural differences between the three expressions:
 - Cosine similarity → sentiment distribution similarity  
 - Jensen–Shannon Divergence (JSD) → distributional distance  
 - Year-by-year comparison of framing shifts
-
----
-
-## Project Structure
-├── data/ # Raw and processed corpus data
-├── notebooks/ # Jupyter notebooks
-│ ├── frequency.ipynb
-│ ├── collocation.ipynb
-│ ├── sentiment.ipynb
-│ └── framing_analysis.ipynb
-├── results/ # Visualizations and figures
-├── README.md
-└── requirements.txt
-
+  
 ---
 
 ## Tools & Libraries
